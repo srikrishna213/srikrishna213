@@ -22,7 +22,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 </p>
 
 ## Github Stats
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirubs11&theme=vision-friendly-dark&hide_border=false" alt="Kirubs11" />.
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikrishna213&theme=vision-friendly-dark&hide_border=false" alt="srikrishna213" />.
 
 ### Other Skills
 
