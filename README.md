@@ -51,12 +51,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 
 Here are some of the projects I've worked on:
 
-1. Web App NxN Puzzle using BFS:
-   - A fun puzzle-solving web application that uses breadth-first search (BFS) to find solutions.
-2. 2048 Slide Game:
-   - An implementation of the popular 2048 game in JavaScript.
-3. Portfolio:
-   - My personal portfolio website showcasing my skills, projects, and achievements.
+1. Real time theft theft detection using arduino:
 
 ## Achievements
 .
